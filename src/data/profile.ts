@@ -105,14 +105,14 @@ export const profileData = {
   ],
 
   skills: [
-    { name: "Python", percentage: 90, icon: "python" },
-    { name: "SQL", percentage: 95, icon: "sql" },
-    { name: "AWS", percentage: 85, icon: "aws" },
-    { name: "ETL/ELT", percentage: 90, icon: "elt" },
-    { name: "CI/CD", percentage: 85, icon: "cicd" },
+    { name: "Python", percentage: 90, icon: "aws" },
+    { name: "SQL", percentage: 95, icon: "azure" },
+    { name: "AWS", percentage: 85, icon: "docker" },
+    { name: "ETL/ELT", percentage: 90, icon: "jenkins" },
+    { name: "CI/CD", percentage: 85, icon: "kubernetes" },
     { name: "Spark", percentage: 88, icon: "prometheus" },
-    { name: "Kafka", percentage: 90, icon: "kafka" },
-    { name: "Airflow", percentage: 80, icon: "airflow" },
+    { name: "Kafka", percentage: 90, icon: "terraform" },
+    { name: "Airflow", percentage: 80, icon: "trivy" },
   ],
 
   projects: [
