@@ -110,7 +110,7 @@ export const profileData = {
     { name: "AWS", percentage: 85, icon: "aws" },
     { name: "ETL/ELT", percentage: 90, icon: "elt" },
     { name: "CI/CD", percentage: 85, icon: "cicd" },
-    { name: "Spark & Databricks", percentage: 88, icon: "prometheus" },
+    { name: "Spark", percentage: 88, icon: "prometheus" },
     { name: "Kafka", percentage: 90, icon: "kafka" },
     { name: "Airflow", percentage: 80, icon: "airflow" },
   ],
